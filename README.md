@@ -1,4 +1,4 @@
-# M5 - Projeto Final Kanvas
+# School API
 
 ## Preparando ambiente para execução dos testes
 
